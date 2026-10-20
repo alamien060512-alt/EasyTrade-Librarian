@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "EasyTrade: Librarian - Cheaper Trade",
+    "description": "Adds mosst high level enchanted books to librarian trades",
+    "uuid": "56074880-1609-4829-9ea9-2109a501f0b7",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "59d17d81-d22b-4ff3-b13c-0d67d0752db0",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["EasyTrade Team"],
+    "product_type": "addon"
+  }
+}
